@@ -1,0 +1,11 @@
+F:\e-invoice\XML.UblTR\bin\Debug\net8.0\XML.UblTR.deps.json
+F:\e-invoice\XML.UblTR\bin\Debug\net8.0\XML.UblTR.dll
+F:\e-invoice\XML.UblTR\bin\Debug\net8.0\XML.UblTR.pdb
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\XML.UblTR.GeneratedMSBuildEditorConfig.editorconfig
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\XML.UblTR.AssemblyInfoInputs.cache
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\XML.UblTR.AssemblyInfo.cs
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\XML.UblTR.csproj.CoreCompileInputs.cache
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\XML.UblTR.dll
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\refint\XML.UblTR.dll
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\XML.UblTR.pdb
+F:\e-invoice\XML.UblTR\obj\Debug\net8.0\ref\XML.UblTR.dll

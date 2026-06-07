@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\e-invoice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0530DD-CA35-4E69-921D-99B01500CB6E}|XML.UblTR\\XML.UblTR.csproj|f:\\e-invoice\\xml.ubltr\\ublhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0530DD-CA35-4E69-921D-99B01500CB6E}|XML.UblTR\\XML.UblTR.csproj|solutionrelative:xml.ubltr\\ublhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0530DD-CA35-4E69-921D-99B01500CB6E}|XML.UblTR\\XML.UblTR.csproj|f:\\e-invoice\\xml.ubltr\\ublapplicationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0530DD-CA35-4E69-921D-99B01500CB6E}|XML.UblTR\\XML.UblTR.csproj|solutionrelative:xml.ubltr\\ublapplicationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E49512E-CE98-4B69-B83F-1974B5977B7B}|Invoiceapi\\Invoiceapi.csproj|f:\\e-invoice\\invoiceapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E49512E-CE98-4B69-B83F-1974B5977B7B}|Invoiceapi\\Invoiceapi.csproj|solutionrelative:invoiceapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UBLApplicationResponse.cs",
+              "DocumentMoniker": "F:\\e-invoice\\XML.UblTR\\UBLApplicationResponse.cs",
+              "RelativeDocumentMoniker": "XML.UblTR\\UBLApplicationResponse.cs",
+              "ToolTip": "F:\\e-invoice\\XML.UblTR\\UBLApplicationResponse.cs",
+              "RelativeToolTip": "XML.UblTR\\UBLApplicationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T18:44:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "F:\\e-invoice\\Invoiceapi\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Invoiceapi\\Controllers\\InvoiceController.cs",
+              "ToolTip": "F:\\e-invoice\\Invoiceapi\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Invoiceapi\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T18:28:54.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UBLHelper.cs",
+              "DocumentMoniker": "F:\\e-invoice\\XML.UblTR\\UBLHelper.cs",
+              "RelativeDocumentMoniker": "XML.UblTR\\UBLHelper.cs",
+              "ToolTip": "F:\\e-invoice\\XML.UblTR\\UBLHelper.cs",
+              "RelativeToolTip": "XML.UblTR\\UBLHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:51:06.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

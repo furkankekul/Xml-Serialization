@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Invoiceapi.Controllers.InvoiceController",
+    "Method": "SendDocument",
+    "RelativePath": "api/Invoice/SendDocument",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "xmlString",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML.UblTR", "XML.UblTR\XML.UblTR.csproj", "{DC0530DD-CA35-4E69-921D-99B01500CB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoiceapi", "Invoiceapi\Invoiceapi.csproj", "{4E49512E-CE98-4B69-B83F-1974B5977B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0530DD-CA35-4E69-921D-99B01500CB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0530DD-CA35-4E69-921D-99B01500CB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0530DD-CA35-4E69-921D-99B01500CB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0530DD-CA35-4E69-921D-99B01500CB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E49512E-CE98-4B69-B83F-1974B5977B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E49512E-CE98-4B69-B83F-1974B5977B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E49512E-CE98-4B69-B83F-1974B5977B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E49512E-CE98-4B69-B83F-1974B5977B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987E6A8C-2B39-4CAD-935C-DF6D35156E08}
+	EndGlobalSection
+EndGlobal
