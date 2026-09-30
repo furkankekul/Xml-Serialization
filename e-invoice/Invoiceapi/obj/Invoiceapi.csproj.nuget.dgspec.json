@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\e-invoice\\Invoiceapi\\Invoiceapi.csproj": {}
+    "F:\\Xml-Serialization\\e-invoice\\Invoiceapi\\Invoiceapi.csproj": {}
   },
   "projects": {
-    "F:\\e-invoice\\Invoiceapi\\Invoiceapi.csproj": {
+    "F:\\Xml-Serialization\\e-invoice\\Invoiceapi\\Invoiceapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\e-invoice\\Invoiceapi\\Invoiceapi.csproj",
+        "projectUniqueName": "F:\\Xml-Serialization\\e-invoice\\Invoiceapi\\Invoiceapi.csproj",
         "projectName": "Invoiceapi",
-        "projectPath": "F:\\e-invoice\\Invoiceapi\\Invoiceapi.csproj",
+        "projectPath": "F:\\Xml-Serialization\\e-invoice\\Invoiceapi\\Invoiceapi.csproj",
         "packagesPath": "C:\\Users\\FURKAN KEKÜL\\.nuget\\packages\\",
-        "outputPath": "F:\\e-invoice\\Invoiceapi\\obj\\",
+        "outputPath": "F:\\Xml-Serialization\\e-invoice\\Invoiceapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\e-invoice\\XML.UblTR\\XML.UblTR.csproj": {
-                "projectPath": "F:\\e-invoice\\XML.UblTR\\XML.UblTR.csproj"
+              "F:\\Xml-Serialization\\e-invoice\\XML.UblTR\\XML.UblTR.csproj": {
+                "projectPath": "F:\\Xml-Serialization\\e-invoice\\XML.UblTR\\XML.UblTR.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "F:\\e-invoice\\XML.UblTR\\XML.UblTR.csproj": {
+    "F:\\Xml-Serialization\\e-invoice\\XML.UblTR\\XML.UblTR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\e-invoice\\XML.UblTR\\XML.UblTR.csproj",
+        "projectUniqueName": "F:\\Xml-Serialization\\e-invoice\\XML.UblTR\\XML.UblTR.csproj",
         "projectName": "XML.UblTR",
-        "projectPath": "F:\\e-invoice\\XML.UblTR\\XML.UblTR.csproj",
+        "projectPath": "F:\\Xml-Serialization\\e-invoice\\XML.UblTR\\XML.UblTR.csproj",
         "packagesPath": "C:\\Users\\FURKAN KEKÜL\\.nuget\\packages\\",
-        "outputPath": "F:\\e-invoice\\XML.UblTR\\obj\\",
+        "outputPath": "F:\\Xml-Serialization\\e-invoice\\XML.UblTR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
